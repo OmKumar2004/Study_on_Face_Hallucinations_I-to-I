@@ -1,0 +1,63 @@
+--- Result 4 ---
+Score: 0.904
+Differences:
+  adjectives:
+    Added: visible.4, defined.11, clear, similar, smoother, Horizontal, Angular, good, symmetrical, wide, original, accurate, present, consistent
+    Removed: lower, broad, distinct, average, horizontal, Prominent, Strong, vertical, open, thick, straight, nasolabial, high, likely, Dark, genuine, sized, outer, minor, strong, Small, Several, fair, upper, bright, directional, significant
+
+--- Result 5 ---
+Score: 0.894
+Differences:
+  adjectives:
+    Added: blurry, correct, soft, uneven, unsettling, uniform, Angular, overall, smooth, smoothed, fine, reddish, absent, Horizontal, fuzzy, noticeable, distorted, blurred.11, pink, Most, right, sharp, blurred, present
+    Removed: lower, rectangular, broad, distinct, average, balanced, horizontal, Prominent, Strong, angular, vertical, open, straight, prominent, high, subtle, happy, likely, Dark, facial, genuine, sized, outer, rounded, minor, strong, Small, Several, slight, upper, bright, directional, nasolabial
+
+--- Result 3 ---
+Score: 0.886
+Differences:
+  adjectives:
+    Added: more, closer, looking, defined.11, present, similar, faint, Angular, wide, smooth, preserved, original, accurate, fine, good
+    Removed: broad, distinct, average, balanced, Prominent, Strong, vertical, open, thick, straight, nasolabial, high, likely, Dark, genuine, sized, outer, minor, strong, Small, Several, slight, upper, fair, bright, directional, significant
+
+--- Result 8 ---
+Score: 0.886
+Differences:
+  adjectives:
+    Added: sharper, Visible, clear, Horizontal, Angular, natural.8, sharp, excellent, symmetrical, pronounced, wide, original, identical, accurate, present, detailed, consistent
+    Removed: lower, broad, distinct, average, horizontal, Prominent, Strong, vertical, open, thick, straight, nasolabial, high, likely, Dark, facial, genuine, sized, outer, minor, strong, Small, Several, fair, upper, bright, directional, significant
+
+--- Result 7 ---
+Score: 0.882
+Differences:
+  adjectives:
+    Added: defined.11, similar, Horizontal, Angular, natural.8, visible.3, wide, smooth, clearer, preserved, original, accurate, good
+    Removed: lower, broad, distinct, average, balanced, horizontal, Prominent, Strong, vertical, open, thick, straight, high, likely, Dark, facial, genuine, sized, outer, minor, strong, Small, Several, slight, upper, fair, bright, directional, nasolabial
+
+--- Result 1 ---
+Score: 0.88
+Differences:
+  adjectives:
+    Added: less, present, artificial, absent, unnatural, Horizontal, Angular, overall, smooth, sharp, original, defined.6, smoothed, fine, uniform
+    Removed: lower, rectangular, broad, distinct, average, balanced, horizontal, Prominent, Strong, angular, open, thick, straight, prominent, nasolabial, high, happy, likely, Dark, facial, genuine, sized, outer, minor, strong, Small, Several, slight, upper, bright, directional, significant
+
+--- Result 6 ---
+Score: 0.853
+Differences:
+  adjectives:
+    Added: original, softened.4, more, Angular, better, residual, overall, Faint, smooth, smoothed, Smooth, fine, noticeable, smoother, uniform.7, pink, sharp, right, present
+    Removed: lower, rectangular, broad, average, balanced, Prominent, Strong, angular, vertical, individual, open, thick, straight, nasolabial, high, happy, likely, Dark, facial, genuine, sized, outer, minor, strong, Small, Several, slight, upper, fair, bright, directional, significant
+
+--- Result 9 ---
+Score: 0.846
+Differences:
+  adjectives:
+    Added: Visible, similar, original, uniform, realistic, Angular, smooth, symmetrical, wide, consistent, softer, smoothed, good, extreme, natural.3, defined.11, clear, Horizontal, smoother, accurate, present
+    Removed: lower, broad, distinct, average, balanced, horizontal, Prominent, Strong, vertical, open, thick, straight, nasolabial, high, likely, Dark, facial, genuine, sized, outer, minor, strong, Small, Several, slight, upper, fair, bright, directional, significant
+
+--- Result 2 ---
+Score: 0.788
+Differences:
+  adjectives:
+    Added: more, present, uniform, smoother, faint, Angular, simplified, smoothed.10, smooth, detailed, original, Smooth, smoothed, fine, realistic
+    Removed: lower, rectangular, broad, average, balanced, Prominent, Strong, angular, vertical, individual, open, thick, straight, nasolabial, high, subtle, happy, likely, Dark, facial, genuine, sized, outer, rounded, minor, strong, Small, Several, slight, upper, fair, bright, directional, significant
+

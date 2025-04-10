@@ -1,0 +1,243 @@
+
+=== LPIPS Scores for CODEFORMER_32 ===
+22610.png vs 22610_restored.png: 0.2378
+22611.png vs 22611_restored.png: 0.2169
+22614.png vs 22614_restored.png: 0.2985
+22616.png vs 22616_restored.png: 0.3026
+22620.png vs 22620_restored.png: 0.2377
+22621.png vs 22621_restored.png: 0.2643
+22633.png vs 22633_restored.png: 0.2648
+22635.png vs 22635_restored.png: 0.2497
+22638.png vs 22638_restored.png: 0.3411
+22640.png vs 22640_restored.png: 0.2364
+22658.png vs 22658_restored.png: 0.1587
+22659.png vs 22659_restored.png: 0.3116
+22670.png vs 22670_restored.png: 0.2831
+22671.png vs 22671_restored.png: 0.1915
+22672.png vs 22672_restored.png: 0.2722
+22674.png vs 22674_restored.png: 0.2911
+22676.png vs 22676_restored.png: 0.3249
+22679.png vs 22679_restored.png: 0.2261
+22682.png vs 22682_restored.png: 0.1989
+22685.png vs 22685_restored.png: 0.2897
+22688.png vs 22688_restored.png: 0.2675
+22692.png vs 22692_restored.png: 0.2647
+22697.png vs 22697_restored.png: 0.2078
+22698.png vs 22698_restored.png: 0.2991
+Average LPIPS for CODEFORMER_32: 0.2599
+
+=== LPIPS Scores for CODEFORMER_64 ===
+22610.png vs 22610_restored.png: 0.1329
+22611.png vs 22611_restored.png: 0.1577
+22614.png vs 22614_restored.png: 0.1422
+22616.png vs 22616_restored.png: 0.1878
+22620.png vs 22620_restored.png: 0.1356
+22621.png vs 22621_restored.png: 0.1336
+22633.png vs 22633_restored.png: 0.1428
+22635.png vs 22635_restored.png: 0.1337
+22638.png vs 22638_restored.png: 0.1953
+22640.png vs 22640_restored.png: 0.1174
+22658.png vs 22658_restored.png: 0.1112
+22659.png vs 22659_restored.png: 0.1733
+22670.png vs 22670_restored.png: 0.1039
+22671.png vs 22671_restored.png: 0.1142
+22672.png vs 22672_restored.png: 0.1648
+22674.png vs 22674_restored.png: 0.1395
+22676.png vs 22676_restored.png: 0.1722
+22679.png vs 22679_restored.png: 0.1607
+22682.png vs 22682_restored.png: 0.1150
+22685.png vs 22685_restored.png: 0.1148
+22688.png vs 22688_restored.png: 0.0973
+22692.png vs 22692_restored.png: 0.2112
+22697.png vs 22697_restored.png: 0.0804
+22698.png vs 22698_restored.png: 0.1761
+Average LPIPS for CODEFORMER_64: 0.1422
+
+=== LPIPS Scores for CODEFORMER_128 ===
+22610.png vs 22610_restored.png: 0.0957
+22611.png vs 22611_restored.png: 0.0989
+22614.png vs 22614_restored.png: 0.0960
+22616.png vs 22616_restored.png: 0.1398
+22620.png vs 22620_restored.png: 0.0937
+22621.png vs 22621_restored.png: 0.0786
+22633.png vs 22633_restored.png: 0.0850
+22635.png vs 22635_restored.png: 0.0962
+22638.png vs 22638_restored.png: 0.1053
+22640.png vs 22640_restored.png: 0.0709
+22658.png vs 22658_restored.png: 0.0806
+22659.png vs 22659_restored.png: 0.1292
+22670.png vs 22670_restored.png: 0.0641
+22671.png vs 22671_restored.png: 0.0849
+22672.png vs 22672_restored.png: 0.1120
+22674.png vs 22674_restored.png: 0.0864
+22676.png vs 22676_restored.png: 0.0959
+22679.png vs 22679_restored.png: 0.1207
+22682.png vs 22682_restored.png: 0.0899
+22685.png vs 22685_restored.png: 0.0850
+22688.png vs 22688_restored.png: 0.0625
+22692.png vs 22692_restored.png: 0.1486
+22697.png vs 22697_restored.png: 0.0585
+22698.png vs 22698_restored.png: 0.1243
+Average LPIPS for CODEFORMER_128: 0.0960
+
+=== LPIPS Scores for CODEFORMER_256 ===
+22610.png vs 22610_restored.png: 0.0868
+22611.png vs 22611_restored.png: 0.0907
+22614.png vs 22614_restored.png: 0.0782
+22616.png vs 22616_restored.png: 0.1269
+22620.png vs 22620_restored.png: 0.0826
+22621.png vs 22621_restored.png: 0.0672
+22633.png vs 22633_restored.png: 0.0819
+22635.png vs 22635_restored.png: 0.0989
+22638.png vs 22638_restored.png: 0.0982
+22640.png vs 22640_restored.png: 0.0629
+22658.png vs 22658_restored.png: 0.0644
+22659.png vs 22659_restored.png: 0.1046
+22670.png vs 22670_restored.png: 0.0592
+22671.png vs 22671_restored.png: 0.0732
+22672.png vs 22672_restored.png: 0.0983
+22674.png vs 22674_restored.png: 0.0702
+22676.png vs 22676_restored.png: 0.0949
+22679.png vs 22679_restored.png: 0.0970
+22682.png vs 22682_restored.png: 0.0923
+22685.png vs 22685_restored.png: 0.0791
+22688.png vs 22688_restored.png: 0.0611
+22692.png vs 22692_restored.png: 0.1201
+22697.png vs 22697_restored.png: 0.0611
+22698.png vs 22698_restored.png: 0.0974
+Average LPIPS for CODEFORMER_256: 0.0853
+
+=== LPIPS Scores for GPEN_32 ===
+22610.png vs 22610_gpen_1024.png: 0.2097
+22611.png vs 22611_gpen_1024.png: 0.1364
+22614.png vs 22614_gpen_1024.png: 0.1903
+22616.png vs 22616_gpen_1024.png: 0.2718
+22620.png vs 22620_gpen_1024.png: 0.2326
+22621.png vs 22621_gpen_1024.png: 0.2071
+22633.png vs 22633_gpen_1024.png: 0.1920
+22635.png vs 22635_gpen_1024.png: 0.2356
+22638.png vs 22638_gpen_1024.png: 0.3123
+22640.png vs 22640_gpen_1024.png: 0.1902
+22658.png vs 22658_gpen_1024.png: 0.1446
+22659.png vs 22659_gpen_1024.png: 0.1774
+22670.png vs 22670_gpen_1024.png: 0.2502
+22671.png vs 22671_gpen_1024.png: 0.1979
+22672.png vs 22672_gpen_1024.png: 0.2136
+22674.png vs 22674_gpen_1024.png: 0.2216
+22676.png vs 22676_gpen_1024.png: 0.3048
+22679.png vs 22679_gpen_1024.png: 0.2441
+22682.png vs 22682_gpen_1024.png: 0.1677
+22685.png vs 22685_gpen_1024.png: 0.2238
+22688.png vs 22688_gpen_1024.png: 0.2078
+22692.png vs 22692_gpen_1024.png: 0.3200
+22697.png vs 22697_gpen_1024.png: 0.1631
+22698.png vs 22698_gpen_1024.png: 0.3061
+Average LPIPS for GPEN_32: 0.2217
+
+=== LPIPS Scores for GPEN_64 ===
+22610.png vs 22610_gpen_1024.png: 0.1262
+22611.png vs 22611_gpen_1024.png: 0.0965
+22614.png vs 22614_gpen_1024.png: 0.1283
+22616.png vs 22616_gpen_1024.png: 0.1884
+22620.png vs 22620_gpen_1024.png: 0.1456
+22621.png vs 22621_gpen_1024.png: 0.1170
+22633.png vs 22633_gpen_1024.png: 0.1192
+22635.png vs 22635_gpen_1024.png: 0.1380
+22638.png vs 22638_gpen_1024.png: 0.2022
+22640.png vs 22640_gpen_1024.png: 0.1231
+22658.png vs 22658_gpen_1024.png: 0.0830
+22659.png vs 22659_gpen_1024.png: 0.1302
+22670.png vs 22670_gpen_1024.png: 0.1186
+22671.png vs 22671_gpen_1024.png: 0.1332
+22672.png vs 22672_gpen_1024.png: 0.1369
+22674.png vs 22674_gpen_1024.png: 0.1482
+22676.png vs 22676_gpen_1024.png: 0.1570
+22679.png vs 22679_gpen_1024.png: 0.1787
+22682.png vs 22682_gpen_1024.png: 0.1119
+22685.png vs 22685_gpen_1024.png: 0.1366
+22688.png vs 22688_gpen_1024.png: 0.0931
+22692.png vs 22692_gpen_1024.png: 0.1816
+22697.png vs 22697_gpen_1024.png: 0.0887
+22698.png vs 22698_gpen_1024.png: 0.1869
+Average LPIPS for GPEN_64: 0.1362
+
+=== LPIPS Scores for GPEN_128 ===
+22610.png vs 22610_gpen_1024.png: 0.0651
+22611.png vs 22611_gpen_1024.png: 0.0602
+22614.png vs 22614_gpen_1024.png: 0.0801
+22616.png vs 22616_gpen_1024.png: 0.1092
+22620.png vs 22620_gpen_1024.png: 0.0785
+22621.png vs 22621_gpen_1024.png: 0.0584
+22633.png vs 22633_gpen_1024.png: 0.0589
+22635.png vs 22635_gpen_1024.png: 0.0813
+22638.png vs 22638_gpen_1024.png: 0.0877
+22640.png vs 22640_gpen_1024.png: 0.0638
+22658.png vs 22658_gpen_1024.png: 0.0461
+22659.png vs 22659_gpen_1024.png: 0.0734
+22670.png vs 22670_gpen_1024.png: 0.0525
+22671.png vs 22671_gpen_1024.png: 0.0897
+22672.png vs 22672_gpen_1024.png: 0.0793
+22674.png vs 22674_gpen_1024.png: 0.0828
+22676.png vs 22676_gpen_1024.png: 0.0696
+22679.png vs 22679_gpen_1024.png: 0.1053
+22682.png vs 22682_gpen_1024.png: 0.0724
+22685.png vs 22685_gpen_1024.png: 0.0798
+22688.png vs 22688_gpen_1024.png: 0.0504
+22692.png vs 22692_gpen_1024.png: 0.1042
+22697.png vs 22697_gpen_1024.png: 0.0575
+22698.png vs 22698_gpen_1024.png: 0.1056
+Average LPIPS for GPEN_128: 0.0755
+
+=== LPIPS Scores for GPEN_256 ===
+22610.png vs 22610_gpen_1024.png: 0.0416
+22611.png vs 22611_gpen_1024.png: 0.0486
+22614.png vs 22614_gpen_1024.png: 0.0549
+22616.png vs 22616_gpen_1024.png: 0.0647
+22620.png vs 22620_gpen_1024.png: 0.0551
+22621.png vs 22621_gpen_1024.png: 0.0356
+22633.png vs 22633_gpen_1024.png: 0.0325
+22635.png vs 22635_gpen_1024.png: 0.0557
+22638.png vs 22638_gpen_1024.png: 0.0485
+22640.png vs 22640_gpen_1024.png: 0.0385
+22658.png vs 22658_gpen_1024.png: 0.0343
+22659.png vs 22659_gpen_1024.png: 0.0485
+22670.png vs 22670_gpen_1024.png: 0.0412
+22671.png vs 22671_gpen_1024.png: 0.0586
+22672.png vs 22672_gpen_1024.png: 0.0432
+22674.png vs 22674_gpen_1024.png: 0.0547
+22676.png vs 22676_gpen_1024.png: 0.0464
+22679.png vs 22679_gpen_1024.png: 0.0585
+22682.png vs 22682_gpen_1024.png: 0.0494
+22685.png vs 22685_gpen_1024.png: 0.0537
+22688.png vs 22688_gpen_1024.png: 0.0331
+22692.png vs 22692_gpen_1024.png: 0.0765
+22697.png vs 22697_gpen_1024.png: 0.0381
+22698.png vs 22698_gpen_1024.png: 0.0613
+Average LPIPS for GPEN_256: 0.0489
+
+=== LPIPS Scores for GFPGAN ===
+22610.png vs enhanced_22610.png: 0.0596
+22611.png vs enhanced_22611.png: 0.0568
+22614.png vs enhanced_22614.png: 0.0387
+22616.png vs enhanced_22616.png: 0.0841
+22620.png vs enhanced_22620.png: 0.0421
+22621.png vs enhanced_22621.png: 0.0285
+22633.png vs enhanced_22633.png: 0.0300
+22635.png vs enhanced_22635.png: 0.0701
+22638.png vs enhanced_22638.png: 0.0502
+22640.png vs enhanced_22640.png: 0.0458
+22658.png vs enhanced_22658.png: 0.0448
+22659.png vs enhanced_22659.png: 0.0419
+22670.png vs enhanced_22670.png: 0.0409
+22671.png vs enhanced_22671.png: 0.0587
+22672.png vs enhanced_22672.png: 0.0588
+22674.png vs enhanced_22674.png: 0.0666
+22676.png vs enhanced_22676.png: 0.0837
+22679.png vs enhanced_22679.png: 0.0756
+22682.png vs enhanced_22682.png: 0.0652
+22685.png vs enhanced_22685.png: 0.0704
+22688.png vs enhanced_22688.png: 0.0438
+22692.png vs enhanced_22692.png: 0.0706
+22697.png vs enhanced_22697.png: 0.0515
+22698.png vs enhanced_22698.png: 0.0514
+Average LPIPS for GFPGAN: 0.0554

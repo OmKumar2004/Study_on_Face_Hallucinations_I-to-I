@@ -1,0 +1,63 @@
+--- Result 1 ---
+Score: 0.894
+Differences:
+  adjectives:
+    Added: fine, uniform, smoothed, indistinct, heavy, dark, softer, sharp, recognizable, present, smoothness, artificial, individual, correct
+    Removed: apparent, shaped, lower, relaxed, bright, high, Visible, Upper, low, brown, warm, flyaway, small, slight, open, upper, visible, significant, neutral, rounded, playful, false, few, wide, gentle, thick, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 5 ---
+Score: 0.89
+Differences:
+  adjectives:
+    Added: original, different, broader, unnatural, Right, simplified.6, fuller, blue, blank, due, smoothed, pinkish, softer, flat, like, uniform, present, altered, less, artificial, light
+    Removed: apparent, shaped, lower, relaxed, soft, bright, high, Visible, Upper, low, overall, brown, warm, flyaway, small, slight, open, upper, visible, neutral, playful, false, few, full, wide, gentle, thick, Subtle, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 7 ---
+Score: 0.888
+Differences:
+  adjectives:
+    Added: accurate, clearer, prominent, incorrect, sharper, close, original, persistent, good, blue, symmetrical, consistent, Moderately
+    Removed: fair, apparent, shaped, lower, relaxed, soft, bright, high, Upper, low, overall, brown, warm, flyaway, small, slight, open, upper, significant, neutral, rounded, playful, smooth, false, few, wide, gentle, thick, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 3 ---
+Score: 0.874
+Differences:
+  adjectives:
+    Added: accurate, prominent, natural.5, original, Moderately, good, similar, clear, pink, minor, symmetrical, consistent, realistic.8
+    Removed: fair, apparent, shaped, lower, relaxed, soft, bright, high, Visible, Upper, low, warm, flyaway, small, slight, open, significant, neutral, rounded, playful, false, few, wide, gentle, thick, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 8 ---
+Score: 0.872
+Differences:
+  adjectives:
+    Added: accurate, micro, prominent, incorrect, sharp, Large, detailed, original, identical, sharper.6, clear, natural.3, blue, symmetrical, consistent, Moderately
+    Removed: fair, apparent, shaped, lower, relaxed, soft, bright, Upper, low, overall, brown, warm, flyaway, small, slight, open, upper, visible, significant, neutral, rounded, playful, smooth, false, few, wide, gentle, thick, large, subtle, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 4 ---
+Score: 0.842
+Differences:
+  adjectives:
+    Added: accurate, prominent, Large, natural.5, original, identical, clear, natural.3, symmetrical, consistent, Moderately
+    Removed: fair, apparent, shaped, lower, relaxed, soft, bright, high, Upper, low, overall, warm, flyaway, small, slight, open, upper, significant, neutral, rounded, playful, smooth, false, few, wide, gentle, thick, large, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 6 ---
+Score: 0.818
+Differences:
+  adjectives:
+    Added: better, more, clearer, strand, blue, closer, weak, original, artificial, unnatural, distinct, dominant, quite
+    Removed: fair, shaped, lower, relaxed, soft, bright, high, Visible, Upper, low, overall, brown, warm, flyaway, small, slight, open, upper, visible, significant, neutral, rounded, playful, false, few, full, wide, gentle, thick, subtle, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 2 ---
+Score: 0.811
+Differences:
+  adjectives:
+    Added: accurate, more, strand, clearer, prominent, natural.8, closer, dark, original, defined, due, distinct, realistic
+    Removed: fair, apparent, shaped, lower, relaxed, soft, bright, high, Visible, Upper, low, overall, warm, flyaway, small, slight, open, upper, visible, significant, neutral, rounded, playful, false, few, wide, gentle, thick, closed, straight, narrow, roundish, outdoor, right, Dark
+
+--- Result 9 ---
+Score: 0.801
+Differences:
+  adjectives:
+    Added: accurate, prominent, dark, Large, smoother, original, Eye, correct, good, consistent, clear, natural.3, symmetrical, realistic, Moderately
+    Removed: fair, apparent, shaped, lower, relaxed, bright, high, Upper, low, warm, flyaway, small, slight, open, upper, visible, significant, neutral, rounded, playful, smooth, false, few, wide, gentle, thick, large, closed, straight, narrow, roundish, outdoor, right, Dark
+

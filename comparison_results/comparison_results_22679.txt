@@ -1,0 +1,63 @@
+--- Result 7 ---
+Score: 0.916
+Differences:
+  adjectives:
+    Added: Facial, Large, good, sharper, happy, like, Soft, textured, Bright, original, accurate, texture, similar, clear, Eyelid, Visible, more
+    Removed: Faint, slight, overall.4, mouthed, pigment, significant, fair, strong, open, straight, low, noticeable, Minimal, likely, broad, gentle, faint, thick, youthful, bright, smile.6, tiny, lower, Longer, Small, wide, vertical, facial, proportional, prominent, large, few
+
+--- Result 4 ---
+Score: 0.913
+Differences:
+  adjectives:
+    Added: Large, distinct, good, happy, Soft, Bright, Natural, original, consistent, similar, clear, Visible, smoother, Eyelid, Subtle
+    Removed: Faint, slight, overall.4, mouthed, pigment, significant, fair, strong, open, straight, noticeable, soft, Minimal, subtle, likely, close, gentle, faint, bright, youthful, thick, smile.6, tiny, Longer, Small, wide, vertical, facial, proportional, prominent, large, few
+
+--- Result 8 ---
+Score: 0.907
+Differences:
+  adjectives:
+    Added: sharper, clear, identical, Large, distinct, happy, pronounced, Soft, consistent, Eyelid, detailed, sharp, Bright, Natural, original, due, Visible, similar, accurate
+    Removed: Faint, slight, overall.4, mouthed, pigment, significant, fair, strong, open, straight, noticeable, soft, Minimal, subtle, likely, close, gentle, faint, bright, youthful, thick, smile.6, smooth, tiny, lower, Longer, Small, wide, vertical, facial, proportional, prominent, large, few
+
+--- Result 5 ---
+Score: 0.906
+Differences:
+  adjectives:
+    Added: blended, pinkish, different, clear, fused, correct, Large, overall, present, unnatural, uniform, sharp, synthesized, heavy, aggressive, original, due, Visible, fine
+    Removed: Faint, slight, overall.4, mouthed, engaging, pigment, significant, fair, strong, open, straight, noticeable, Minimal, pink, subtle, likely, broad, visible, close, gentle, front, faint, bright, youthful, thick, smile.6, tiny, lower, Longer, Small, wide, full, vertical, proportional, prominent, large, few
+
+--- Result 3 ---
+Score: 0.901
+Differences:
+  adjectives:
+    Added: softer, Large, like, individual, happy, Soft, Bright, original, better, improved, accurate, clearer, Visible, smoother, Eyelid, more, absent, Contour
+    Removed: Faint, slight, overall.4, mouthed, pigment, fair, strong, open, straight, noticeable, soft, Minimal, likely, broad, close, gentle, faint, bright, youthful, thick, smile.6, tiny, Longer, Small, wide, vertical, low, proportional, prominent, large, few
+
+--- Result 1 ---
+Score: 0.883
+Differences:
+  adjectives:
+    Added: artificial, general, Proportional, distinct, medium, present, discernible, Eye, simplified, textureless, individual, uniform, white, consistent, sharp, heavy, typical, synthesized.2, fine
+    Removed: Faint, slight, overall.4, engaging, pigment, significant, strong, straight, noticeable, Minimal, subtle, likely, close, gentle, faint, thick, bright, youthful, symmetrical, smile.6, tiny, lower, Longer, Small, wide, full, vertical, facial, proportional, prominent, few
+
+--- Result 9 ---
+Score: 0.86
+Differences:
+  adjectives:
+    Added: softer, good, clear, smoother, Large, distinct, happy, overall, Soft, consistent, Eyelid, smoothness, sharp, /, Natural, original, Bright, accurate, similar, Visible
+    Removed: Faint, slight, overall.4, mouthed, pigment, significant, fair, strong, open, straight, noticeable, Minimal, subtle, likely, close, gentle, faint, bright, youthful, thick, smile.6, tiny, lower, Longer, Small, wide, vertical, proportional, prominent, large, few
+
+--- Result 2 ---
+Score: 0.806
+Differences:
+  adjectives:
+    Added: free, present, like, defined, sharper, happy, medium, original, better, consistent, clearer, Open, more, Smooth
+    Removed: Faint, slight, overall.4, engaging, pigment, significant, fair, strong, open, straight, low, noticeable, Minimal, likely, broad, close, gentle, faint, bright, youthful, thick, smile.6, tiny, lower, Longer, Small, wide, full, vertical, facial, proportional, prominent, few
+
+--- Result 6 ---
+Score: 0.799
+Differences:
+  adjectives:
+    Added: free, softer, artificial, Teeth, more, realistic, Smooth, correct, Large, distinct, Happy, better, Soft, consistent, defined, original, clearer, smoothed, fine
+    Removed: Faint, slight, overall.4, mouthed, pigment, significant, fair, strong, open, straight, low, noticeable, soft, Minimal, subtle, likely, broad, close, gentle, front, faint, bright, youthful, thick, symmetrical, smile.6, tiny, lower, Longer, Small, wide, vertical, facial, proportional, prominent, large, few
+

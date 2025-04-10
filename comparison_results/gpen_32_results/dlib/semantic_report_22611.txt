@@ -1,0 +1,69 @@
+Semantic Landmark Comparison for 22611:
+  Jaw start: Inconsistent between images (distances: orig 22.86, gen 14.04).
+  Jaw: Inconsistent between images (distances: orig 20.63, gen 28.53).
+  Jaw: Missing in generated image (potential hallucination).
+  Jaw: Inconsistent between images (distances: orig 11.85, gen 11.01).
+  Jaw: Inconsistent between images (distances: orig 6.54, gen 21.75).
+  Jaw: Inconsistent between images (distances: orig 23.06, gen 11.24).
+  Jaw: Not detected in original image (landmark might be off).
+  Jaw: Not detected in original image (landmark might be off).
+  Chin: Not detected in original image (landmark might be off).
+  Jaw: Missing in generated image (potential hallucination).
+  Jaw: Consistent (match distance: 137.89).
+  Jaw: Inconsistent between images (distances: orig 26.24, gen 28.34).
+  Jaw: Not detected in original image (landmark might be off).
+  Jaw: Inconsistent between images (distances: orig 14.23, gen 17.14).
+  Jaw: Missing in generated image (potential hallucination).
+  Jaw: Not detected in original image (landmark might be off).
+  Jaw end: Not detected in original image (landmark might be off).
+  Left eyebrow: Not detected in original image (landmark might be off).
+  Left eyebrow: Inconsistent between images (distances: orig 3.48, gen 6.46).
+  Left eyebrow: Inconsistent between images (distances: orig 2.40, gen 15.91).
+  Left eyebrow: Inconsistent between images (distances: orig 2.26, gen 12.62).
+  Left eyebrow: Inconsistent between images (distances: orig 3.27, gen 3.88).
+  Right eyebrow: Inconsistent between images (distances: orig 3.42, gen 6.25).
+  Right eyebrow: Inconsistent between images (distances: orig 3.72, gen 4.94).
+  Right eyebrow: Inconsistent between images (distances: orig 3.19, gen 16.12).
+  Right eyebrow: Inconsistent between images (distances: orig 19.48, gen 22.45).
+  Right eyebrow: Inconsistent between images (distances: orig 27.31, gen 9.55).
+  Nose bridge: Missing in generated image (potential hallucination).
+  Nose bridge: Missing in generated image (potential hallucination).
+  Nose bridge: Not detected in original image (landmark might be off).
+  Nose tip: Consistent (match distance: 132.58).
+  Nose: Inconsistent between images (distances: orig 11.67, gen 15.22).
+  Nose: Inconsistent between images (distances: orig 16.34, gen 17.12).
+  Nose: Missing in generated image (potential hallucination).
+  Nose: Inconsistent between images (distances: orig 16.56, gen 16.09).
+  Nose: Consistent (match distance: 132.29).
+  Left eye corner: Inconsistent between images (distances: orig 3.33, gen 3.38).
+  Left eye: Inconsistent between images (distances: orig 7.28, gen 14.29).
+  Left eye: Inconsistent between images (distances: orig 6.78, gen 8.16).
+  Left eye: Inconsistent between images (distances: orig 8.26, gen 3.54).
+  Left eye: Inconsistent between images (distances: orig 1.24, gen 6.14).
+  Left eye: Inconsistent between images (distances: orig 3.88, gen 4.37).
+  Right eye corner: Inconsistent between images (distances: orig 1.37, gen 2.61).
+  Right eye: Inconsistent between images (distances: orig 7.43, gen 7.42).
+  Right eye: Inconsistent between images (distances: orig 8.97, gen 12.07).
+  Right eye corner: Inconsistent between images (distances: orig 7.88, gen 3.18).
+  Right eye: Inconsistent between images (distances: orig 2.97, gen 4.16).
+  Right eye: Inconsistent between images (distances: orig 12.08, gen 6.79).
+  Left mouth corner: Not detected in original image (landmark might be off).
+  Outer lip: Inconsistent between images (distances: orig 7.70, gen 12.04).
+  Outer lip: Inconsistent between images (distances: orig 13.59, gen 20.57).
+  Outer lip: Inconsistent between images (distances: orig 13.90, gen 20.15).
+  Outer lip: Inconsistent between images (distances: orig 16.37, gen 17.58).
+  Outer lip: Inconsistent between images (distances: orig 9.41, gen 9.96).
+  Right mouth corner: Not detected in original image (landmark might be off).
+  Outer lip: Not detected in original image (landmark might be off).
+  Outer lip: Missing in generated image (potential hallucination).
+  Outer lip: Missing in generated image (potential hallucination).
+  Outer lip: Not detected in original image (landmark might be off).
+  Outer lip: Inconsistent between images (distances: orig 26.82, gen 20.24).
+  Inner lip: Inconsistent between images (distances: orig 21.84, gen 2.50).
+  Inner lip: Inconsistent between images (distances: orig 5.22, gen 13.21).
+  Inner lip: Inconsistent between images (distances: orig 6.79, gen 10.06).
+  Inner lip: Inconsistent between images (distances: orig 9.45, gen 3.14).
+  Inner lip: Inconsistent between images (distances: orig 25.12, gen 7.94).
+  Inner lip: Inconsistent between images (distances: orig 16.65, gen 25.71).
+  Inner lip: Inconsistent between images (distances: orig 7.14, gen 14.14).
+  Inner lip: Inconsistent between images (distances: orig 9.80, gen 8.22).
